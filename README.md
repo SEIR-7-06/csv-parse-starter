@@ -29,3 +29,7 @@
 - Create Update and Delete routes.
 - Create user registration and login routes.
 - Add authorization: user must login to access the site.
+- Give the site some style with your own custom css, scss, or Bootstrap.
+
+##### Here's an example of the completed challenge
+[https://csv-parse-server.herokuapp.com/](https://csv-parse-server.herokuapp.com/)
