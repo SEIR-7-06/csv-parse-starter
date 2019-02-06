@@ -27,3 +27,5 @@
 
 - Create a "Show" route that will allow the user to view details for each record.
 - Create Update and Delete routes.
+- Create user registration and login routes.
+- Add authorization: user must login to access the site.
